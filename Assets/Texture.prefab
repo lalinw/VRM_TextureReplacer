@@ -77,7 +77,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Opaque (\u4E0D\u900F\u660E)"
+  m_Text: Opaque
 --- !u!1 &911024070663217928
 GameObject:
   m_ObjectHideFlags: 0
@@ -8121,7 +8121,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Show
+  m_Text: MToon
 --- !u!114 &1692307612375821009
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8338,13 +8338,13 @@ MonoBehaviour:
   m_Value: 0
   m_Options:
     m_Options:
-    - m_Text: "Opaque (\u4E0D\u900F\u660E)"
+    - m_Text: Opaque
       m_Image: {fileID: 0}
-    - m_Text: "Transparent (\u900F\u660E)"
+    - m_Text: Cutout
       m_Image: {fileID: 0}
-    - m_Text: "Translucent (\u534A\u900F\u660E)"
+    - m_Text: Transparent
       m_Image: {fileID: 0}
-    - m_Text: "Translucent Z (\u534A\u900F\u660EZ)"
+    - m_Text: TransparentWithZWrite
       m_Image: {fileID: 0}
   m_OnValueChanged:
     m_PersistentCalls:
